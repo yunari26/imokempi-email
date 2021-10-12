@@ -1,0 +1,8 @@
+ja:
+  activerecord:
+    attributes:
+      inquiry:
+        name: "髪に芋けんぴがついている人のお名前"
+        email: "髪に芋けんぴがついている人のメールアドレス"
+        relationship: "髪に芋けんぴがついている人との関係"
+        content: "何か伝えたいこと"
